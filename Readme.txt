@@ -10,6 +10,7 @@ Data Download Links:
 	(2) Health-care Data: URL: https://physionet.org/challenge/2012/ We use the test-a.zip in our experiment.
 	(3) Human Activity Data: URL: https://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity
 
+Paper Link: https://www.aaai.org/AAAI21Papers/AAAI-7391.MiaoX.pdf
 
 Citation:
 @InProceedings{miao2021generative,
