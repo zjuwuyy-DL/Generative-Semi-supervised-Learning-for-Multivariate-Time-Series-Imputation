@@ -12,6 +12,8 @@ Data Download Links:
 
 Paper Link: https://www.aaai.org/AAAI21Papers/AAAI-7391.MiaoX.pdf
 
+If you have any question, please contact "zjuwuyy@zju.edu.cn".
+
 Citation:
 @InProceedings{miao2021generative,
   Title                    = {Generative Semi-supervised Learning for Multivariate Time Series Imputation},
